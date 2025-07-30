@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou a Sanayane, mas pode me chamar de Sana 😉
 
-# Bem-vindos ao meu GitHub! Sou apaixonada por tecnologia e desenvolvimento de software, sempre em busca de novos desafios para transformar ideias em soluções eficientes e de alta qualidade.
+### Bem-vindos ao meu GitHub! Sou apaixonada por tecnologia e desenvolvimento de software, sempre em busca de novos desafios para transformar ideias em soluções eficientes e de alta qualidade.
 
 ## 🚀 Sobre Mim
 
