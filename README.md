@@ -30,7 +30,7 @@
 
 ## 📈 Estatísticas e Contribuições
 
-![Estatísticas do GitHub de Sanayane](https://github-readme-stats.vercel.app/api?username=sanaycosta14&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub de Sanayane](<img src="https://sana-streak-stats.vercel.app/?user=sanaycosta14&theme=dark" alt="GitHub Streak" />)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=sanaycosta14&layout=compact&langs_count=8&theme=radical)
 
 <picture>
