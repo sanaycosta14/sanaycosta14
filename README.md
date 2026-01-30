@@ -29,9 +29,8 @@
 <a href="mailto:sanaysouza14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 ## 📈 Estatísticas e Contribuições
-
-![Estatísticas do GitHub de Sanayane](https://github-readme-stats-omega-cyan-87.vercel.app/api?username=sanaycosta14&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Linguagens Mais Usadas](https://github-readme-stats-omega-cyan-87.vercel.app/api/top-langs/?username=sanaycosta14&layout=compact&langs_count=8&theme=radical)
+![Followers](https://img.shields.io/github/followers/sanaycosta14)
+![Stars](https://img.shields.io/github/stars/sanaycosta14)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanaycosta14/sanaycosta14/output/github-contribution-grid-snake-dark.svg">
